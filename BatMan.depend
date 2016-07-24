@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385316876 source:c:\users\wohhie\onedrive\public\opengl\batman\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1433921749 source:c:\users\wohhie\onedrive\public\opengl\batman\batman.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
